@@ -272,7 +272,8 @@ Note this table is referenced from [here](https://github.com/LoSealL/VideoSuperR
 | PANet        | [arxiv](https://arxiv.org/pdf/2004.13824.pdf)   |[PyTorch](https://github.com/SHI-Labs/Pyramid-Attention-Networks)   | Pyramid Attention        |
 | SRResCGAN        | [arxiv](https://arxiv.org/pdf/2005.00953.pdf)   |[PyTorch](https://github.com/RaoUmer/SRResCGAN)   |         |
 |dSRVAE        |[CVPR 2020 ?](https://arxiv.org/pdf/2004.02215.pdf)   |[PyTorch](https://github.com/Holmes-Alan/dSRVAE)   | 无监督        |
-|LFSR        |[CVPR 2020](https://arxiv.org/pdf/2004.12811.pdf)   |[PyTorch](https://github.com/jingjin25/LFSSR-ATO)目前为空   | 光亮图像SR        |
+|LFSR        |[CVPR 2020](https://arxiv.org/pdf/2004.12811.pdf)   |[PyTorch](https://github.com/jingjin25/LFSSR-ATO)空   | 光亮图像SR        |
+|DICGAN        |[CVPR 2020](https://arxiv.org/pdf/2003.13063.pdf)   |[PyTorch](https://https://github.com/Maclory/Deep-Iterative-Collaboration)   | 人脸SR        |
 
 
 ### Super Resolution workshop papers
