@@ -243,6 +243,7 @@ Note this table is referenced from [here](https://github.com/LoSealL/VideoSuperR
 | FSRnet                 | [ICCV19](http://openaccess.thecvf.com/content_ICCV_2019/papers/Gu_Fast_Image_Restoration_With_Multi-Bin_Trainable_Linear_Units_ICCV_2019_paper.pdf) |                                                              | Multi-bin Trainable Linear Units                             |
 | SAM+VAM                | [ICCVW19](https://arxiv.org/pdf/1911.08711.pdf)              |                                                              |                                                              |
 | SinGAN                 | [ICCV19](http://openaccess.thecvf.com/content_ICCV_2019/papers/Shaham_SinGAN_Learning_a_Generative_Model_From_a_Single_Natural_Image_ICCV_2019_paper.pdf) |    [PyTorch](https://github.com/tamarott/SinGAN)              | bestpaper,  train from single image   |
+|KernelGAN        |[NIPS 2019(oral)](http://papers.nips.cc/paper/8321-blind-super-resolution-kernel-estimation-using-an-internal-gan.pdf)   |[PyTorch](http://www.wisdom.weizmann.ac.il/~vision/kernelgan/)   | 无监督GAN,值得学习       |
 
 #### 2020
 | Model                  | Published                                                    | Code                                                         | Keywords                                                     |
