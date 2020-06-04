@@ -276,6 +276,10 @@ Note this table is referenced from [here](https://github.com/LoSealL/VideoSuperR
 |dSRVAE        |[CVPR 2020 ?](https://arxiv.org/pdf/2004.02215.pdf)   |[PyTorch](https://github.com/Holmes-Alan/dSRVAE)   | 无监督        |
 |LFSR        |[CVPR 2020](https://arxiv.org/pdf/2004.12811.pdf)   |[PyTorch](https://github.com/jingjin25/LFSSR-ATO)空   | 光亮图像SR        |
 |DICGAN        |[CVPR 2020](https://arxiv.org/pdf/2003.13063.pdf)   |[PyTorch](https://github.com/Maclory/Deep-Iterative-Collaboration)   | 人脸SR        |
+| ISRN        | [arxiv](https://arxiv.org/pdf/2005.09964.pdf)   |   | iterative optimization, feature normalization.     |
+| RFB-ESRGAN        | [CVPR 2020](https://arxiv.org/pdf/2005.12597.pdf)   |   | NTIRE 2020 Perceptual Extreme Super-Resolution Challenge winner    |
+| PHYSICS_SR                   | [AAAI 2020](https://arxiv.org/pdf/1908.06444.pdf)            | [PyTorch](https://github.com/jspan/PHYSICS_SR)              |    |
+| CSNLN               | [CVPR 2020](https://arxiv.org/pdf/2006.01424.pdf)            | [PyTorch](https://github.com/SHI-Labs/Cross-Scale-Non-Local-Attention)         | Cross-Scale Non-Local Attention,Exhaustive Self-Exemplars Mining, Similar to PANet  |
 
 
 ### Super Resolution workshop papers
