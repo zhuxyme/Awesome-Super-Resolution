@@ -280,6 +280,7 @@ Note this table is referenced from [here](https://github.com/LoSealL/VideoSuperR
 | RFB-ESRGAN        | [CVPR 2020](https://arxiv.org/pdf/2005.12597.pdf)   |   | NTIRE 2020 Perceptual Extreme Super-Resolution Challenge winner    |
 | PHYSICS_SR                   | [AAAI 2020](https://arxiv.org/pdf/1908.06444.pdf)            | [PyTorch](https://github.com/jspan/PHYSICS_SR)              |    |
 | CSNLN               | [CVPR 2020](https://arxiv.org/pdf/2006.01424.pdf)            | [PyTorch](https://github.com/SHI-Labs/Cross-Scale-Non-Local-Attention)         | Cross-Scale Non-Local Attention,Exhaustive Self-Exemplars Mining, Similar to PANet  |
+|老旧图像修复        |[CVPR 2020](https://arxiv.org/pdf/2004.09484.pdf)   |[Project](http://raywzy.com/Old_Photo/) 暂未公布代码  |         |
 
 
 ### Super Resolution workshop papers
