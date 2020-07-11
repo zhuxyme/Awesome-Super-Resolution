@@ -269,7 +269,7 @@ Note this table is referenced from [here](https://github.com/LoSealL/VideoSuperR
 | Scale-Arbitrary SR        | [arxiv](https://arxiv.org/pdf/2004.03791.pdf)            | [Code](https://github.com/LongguangWang/Scale-Arbitrary-SR)                                                             | Scale-Arbitrary Super-Resolution, Knowledge Transfer                  |
 | DeepSEE        | [arxiv](https://arxiv.org/pdf/2004.04433.pdf)            | [Code](https://mcbuehler.github.io/DeepSEE/)                                                             | Extreme super-resolution,32× magnification                  |
 | CutBlur        | [CVPR 2020](https://arxiv.org/pdf/2004.00448.pdf)            | [PyTorch](https://github.com/clovaai/cutblur/blob/master/main.py)             | SR Data Augmentation                  |
-| `UDVD`      | [CVPR 2020](https://arxiv.org/pdf/2004.06965.pdf)            |   | 采用统一的模型来应对不同的退化场景          |
+| `UDVD`      | [CVPR 2020](https://arxiv.org/pdf/2004.06965.pdf)            |   | 8、采用统一的模型来应对不同的退化场景          |
 | DIN        | [IJCAI-PRICAI 2020](https://arxiv.org/pdf/2004.11814.pdf)            |   | SISR，asymmetric co-attention           |
 | PANet        | [arxiv](https://arxiv.org/pdf/2004.13824.pdf)   |[PyTorch](https://github.com/SHI-Labs/Pyramid-Attention-Networks)   | Pyramid Attention        |
 | SRResCGAN        | [arxiv](https://arxiv.org/pdf/2005.00953.pdf)   |[PyTorch](https://github.com/RaoUmer/SRResCGAN)   |         |
