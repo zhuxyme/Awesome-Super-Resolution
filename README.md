@@ -275,7 +275,7 @@ Note this table is referenced from [here](https://github.com/LoSealL/VideoSuperR
 | SRResCGAN        | [arxiv](https://arxiv.org/pdf/2005.00953.pdf)   |[PyTorch](https://github.com/RaoUmer/SRResCGAN)   |         |
 |dSRVAE        |[CVPR 2020 ?](https://arxiv.org/pdf/2004.02215.pdf)   |[PyTorch](https://github.com/Holmes-Alan/dSRVAE)   | 无监督        |
 |LFSR        |[CVPR 2020](https://arxiv.org/pdf/2004.12811.pdf)   |[PyTorch](https://github.com/jingjin25/LFSSR-ATO)空   | 光亮图像SR        |
-|DICGAN        |[CVPR 2020](https://arxiv.org/pdf/2003.13063.pdf)   |[PyTorch](https://github.com/Maclory/Deep-Iterative-Collaboration)   | 人脸SR        |
+|DICGAN        |[CVPR 2020](https://arxiv.org/pdf/2003.13063.pdf)   |[PyTorch](https://github.com/Maclory/Deep-Iterative-Collaboration)   | 15、人脸SR        |
 | ISRN        | [arxiv](https://arxiv.org/pdf/2005.09964.pdf)   |   | iterative optimization, feature normalization.     |
 | RFB-ESRGAN        | [CVPR 2020](https://arxiv.org/pdf/2005.12597.pdf)   |   | NTIRE 2020 Perceptual Extreme Super-Resolution Challenge winner    |
 | PHYSICS_SR                   | [AAAI 2020](https://arxiv.org/pdf/1908.06444.pdf)            | [PyTorch](https://github.com/jspan/PHYSICS_SR)              |    |
@@ -295,7 +295,7 @@ Note this table is referenced from [here](https://github.com/LoSealL/VideoSuperR
 | Invertible-Image-Rescaling  | [ECCV 2020](https://arxiv.org/abs/2005.05650)    | [Code](https://github.com/pkuxmq/Invertible-Image-Rescaling)  | ECCV oral |
 | IGNN  | [arxiv](https://arxiv.org/abs/2006.16673)    | [Code](https://github.com/sczhou/IGNN)  | GNN, SISR |
 | Pseudo-Supervision SR  | [CVPR 2020](https://openaccess.thecvf.com/content_CVPR_2020/papers/Maeda_Unpaired_Image_Super-Resolution_Using_Pseudo-Supervision_CVPR_2020_paper.pdf)    | | 伪监督SR |
-
+|LESR        |[CVPR 2020](http://openaccess.thecvf.com/content_CVPR_2020/papers/Meishvili_Learning_to_Have_an_Ear_for_Face_Super-Resolution_CVPR_2020_paper.pdf)   |[PyTorch](https://gmeishvili.github.io/ear_for_face_super_resolution/index.html)   | 14、人脸SR，通过一只耳朵的声音来帮助人脸SR      |
 
 ### Super Resolution workshop papers
 #### NTIRE17 [papers](http://openaccess.thecvf.com/CVPR2017_workshops/CVPR2017_W12.py)
