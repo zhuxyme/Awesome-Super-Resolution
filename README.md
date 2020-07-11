@@ -283,7 +283,7 @@ Note this table is referenced from [here](https://github.com/LoSealL/VideoSuperR
 |老旧图像修复        |[CVPR 2020](https://arxiv.org/pdf/2004.09484.pdf)   |[Project](http://raywzy.com/Old_Photo/) 暂未公布代码  |         |
 | `TTSR`               | [CVPR 2020](https://arxiv.org/pdf/2006.04139.pdf)            | [PyTorch](https://github.com/FuzhiYang/TTSR)         | Texture Transformer |
 | NSR               | [arxiv](https://arxiv.org/pdf/2006.04357.pdf)            | [PyTorch](https://github.com/ychfan/nsr)         | Neural Sparse Representation |
-| RFANet               | [CVPR 2020](http://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Residual_Feature_Aggregation_Network_for_Image_Super-Resolution_CVPR_2020_paper.pdf)            |    | state-of-the-art SISR |
+| RFANet               | [CVPR 2020](http://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Residual_Feature_Aggregation_Network_for_Image_Super-Resolution_CVPR_2020_paper.pdf)            |    | 残差特征聚合，非盲SR |
 | Correction filter     | [CVPR 2020](http://openaccess.thecvf.com/content_CVPR_2020/papers/Abu_Hussein_Correction_Filter_for_Single_Image_Super-Resolution_Robustifying_Off-the-Shelf_Deep_Super-Resolvers_CVPR_2020_paper.pdf)            |    | 在现有的模型基础上进行矫正核，盲SR |
 | Unpaired SR     | [CVPR 2020](http://openaccess.thecvf.com/content_CVPR_2020/papers/Maeda_Unpaired_Image_Super-Resolution_Using_Pseudo-Supervision_CVPR_2020_paper.pdf)            |    |Unpaired Image Super-Resolution |
 | STARnet     | [CVPR 2020](http://openaccess.thecvf.com/content_CVPR_2020/papers/Haris_Space-Time-Aware_Multi-Resolution_Video_Enhancement_CVPR_2020_paper.pdf)            |    |Space-Time-Aware multi-Resolution |
