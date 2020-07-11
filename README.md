@@ -294,6 +294,8 @@ Note this table is referenced from [here](https://github.com/LoSealL/VideoSuperR
 | LF-InterNet  | [ECCV 2020](https://arxiv.org/pdf/1912.07849.pdf)    | [PyTorch](https://github.com/YingqianWang/LF-InterNet)  | Spatial-Angular Interaction, Light Field Image SR |
 | Invertible-Image-Rescaling  | [ECCV 2020](https://arxiv.org/abs/2005.05650)    | [Code](https://github.com/pkuxmq/Invertible-Image-Rescaling)  | ECCV oral |
 | IGNN  | [arxiv](https://arxiv.org/abs/2006.16673)    | [Code](https://github.com/sczhou/IGNN)  | GNN, SISR |
+| Pseudo-Supervision SR  | [CVPR 2020](https://openaccess.thecvf.com/content_CVPR_2020/papers/Maeda_Unpaired_Image_Super-Resolution_Using_Pseudo-Supervision_CVPR_2020_paper.pdf)    | | 伪监督SR |
+
 
 ### Super Resolution workshop papers
 #### NTIRE17 [papers](http://openaccess.thecvf.com/CVPR2017_workshops/CVPR2017_W12.py)
