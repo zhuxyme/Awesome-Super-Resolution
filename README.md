@@ -251,13 +251,11 @@ Note this table is referenced from [here](https://github.com/LoSealL/VideoSuperR
 | ADCSR                  | [arxiv](https://arxiv.org/pdf/1912.08002.pdf)                |                                                              |                                                              |
 | SCN                    | [AAAI 2020](https://arxiv.org/pdf/1912.09028.pdf)            |                                                              | Scale-wise Convolution                                       |
 | LSRGAN                    | [arxiv](https://arxiv.org/pdf/2001.08126.pdf)            |                                                              | Latent Space Regularization for srgan                                       |
-
 | VESR-Net        | [arxiv](https://arxiv.org/pdf/2003.02115.pdf)            |                                                              | Youku Video Enhancement and Super-Resolution Challenge Champion                    |
 | blindvsr        | [arxiv](https://arxiv.org/pdf/2003.04716.pdf)            |   [PyTorch](https://github.com/jspan/blindvsr)                                                           | Motion blur estimation                    |
 | HNAS-SR        | [arxiv](https://arxiv.org/pdf/2003.04619.pdf)            |   [PyTorch](https://github.com/guoyongcs/HNAS-SR)                                                           | Hierarchical Neural Architecture Search, Lightweight   |
 
 | SFM        | [arxiv](https://arxiv.org/pdf/2003.07119.pdf)            |   [PyTorch](https://github.com/sfm-sr-denoising/sfm)                                                           | Stochastic Frequency Masking, Improve method                     |
-
 | PULSE        | [CVPR 2020](https://arxiv.org/pdf/2003.03808.pdf)            |                                                             | Self-Supervised                     |
 | `SPSR`       | [CVPR 2020](https://arxiv.org/pdf/2003.13081.pdf)            | [Code](https://github.com/Maclory/SPSR)                                                             |  Gradient Guidance, GAN                  |
 | DASR        | [arxiv](https://arxiv.org/pdf/2004.01178.pdf)            | [Code](https://github.com/ShuhangGu/DASR)                                                             | Real-World Image Super-Resolution, Unsupervised SuperResolution, Domain Adaptation.                  |
@@ -278,9 +276,6 @@ Note this table is referenced from [here](https://github.com/LoSealL/VideoSuperR
 | LF-InterNet  | [ECCV 2020](https://arxiv.org/pdf/1912.07849.pdf)    | [PyTorch](https://github.com/YingqianWang/LF-InterNet)  | Spatial-Angular Interaction, Light Field Image SR |
 | Invertible-Image-Rescaling  | [ECCV 2020](https://arxiv.org/abs/2005.05650)    | [Code](https://github.com/pkuxmq/Invertible-Image-Rescaling)  | ECCV oral |
 | IGNN  | [arxiv](https://arxiv.org/abs/2006.16673)    | [Code](https://github.com/sczhou/IGNN)  | GNN, SISR |
-
-
-
 | DRN        | [CVPR 2020](https://arxiv.org/pdf/2003.07018.pdf)            | [PyTorch](https://github.com/guoyongcs/DRN)                                                             | 1、对偶回归，面向真实LR图像Dual Regression, SISR STOA                     |
 | EventSR        | [CVPR 2020](https://arxiv.org/pdf/2003.07640.pdf)            |                                                             | 2、针对event camera数据进行SR。split three phases                     |
 | Pseudo-Supervision SR  | [CVPR 2020](https://openaccess.thecvf.com/content_CVPR_2020/papers/Maeda_Unpaired_Image_Super-Resolution_Using_Pseudo-Supervision_CVPR_2020_paper.pdf)    | | 3、伪监督SR |
