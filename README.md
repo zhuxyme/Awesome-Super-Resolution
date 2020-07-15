@@ -1,4 +1,5 @@
-Acknowledgements    https://github.com/ChaofWang/Awesome-Super-Resolution
+Acknowledgements ：   https://github.com/ChaofWang/Awesome-Super-Resolution
+大佬的github主页：https://github.com/cszn
 # Quick navigation
 
 - [repositories](#repositories)
