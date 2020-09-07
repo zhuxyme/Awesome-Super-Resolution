@@ -307,6 +307,7 @@ Note this table is referenced from [here](https://github.com/LoSealL/VideoSuperR
 | IGNN  | [arxiv](https://arxiv.org/abs/2006.16673)    | [Code](https://github.com/sczhou/IGNN)  | GNN, SISR |
 | MIRNet  | [ECCV 2020](https://arxiv.org/pdf/2003.06792.pdf)    | [PyTorch](https://github.com/swz30/MIRNet)  | 1、去噪+超分+增强|
 | SFM  | [ECCV 2020](https://arxiv.org/pdf/2003.07119.pdf)    | [PyTorch](https://github.com/majedelhelou/SFM)  |2、随机频率掩码，去噪+超分|
+| LatticeNet| [ECCV 2020](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670273.pdf)  | |3、轻量化|
 
 
 
