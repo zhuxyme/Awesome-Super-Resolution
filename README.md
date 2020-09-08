@@ -317,8 +317,15 @@ Note this table is referenced from [here](https://github.com/LoSealL/VideoSuperR
 | SRFlow| [ECCV 2020](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123500698.pdf)    |[Code](https://github.com/andreas128/SRFlow) |10、Spotlight|
 | BSRN| [ECCV 2020](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490086.pdf)  | |11、轻量化，二值化神经网络|
 | VarSR| [ECCV 2020](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123680426.pdf)  | |12、变分超分辨率网络，超低分辨率图像|
-
-
+| HAN| [ECCV 2020](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123570188.pdf)  | |13、整体注意力网络，刷指标 |
+| DeepTemporalSR| [ECCV 2020](http://www.wisdom.weizmann.ac.il/~vision/DeepTemporalSR/supplementary/AcrossScalesAndDimensions_ECCV2020.pdf)  |[PyTorch](https://github.com/eyalnaor/DeepTemporalSR) |14、视频时序SR|
+| DGDML-SR| [ECCV 2020](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123620256.pdf)  | |15、零样本SR|
+|MLSR| [ECCV 2020](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123720749.pdf)  |[PyTorch](https://github.com/parkseobin/MLSR)  |16、元学习SR|
+|PlugNet| [ECCV 2020](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123600154.pdf)  | |17、借助SR场景文本识别|
+|TextZoom| [ECCV 2020](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123550647.pdf)  |[code](https://github.com/JasonBoy1/TextZoom) |18、同上 |
+|TPSR| [ECCV 2020](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123710086.pdf)  |  |19、NAS、感知、轻量化|
+|CUCaNet| [ECCV 2020](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123740205.pdf)  | [PyTorch](https://github.com/danfenghong/ECCV2020_CUCaNet) |20、无监督,高光谱图像SR|
+|MAFFSRN| [ECCVW 2020??？](https://arxiv.org/pdf/2008.12912.pdf)  |  |21、多注意力特征融合，超轻量化 |
 
 ### Super Resolution workshop papers
 #### NTIRE17 [papers](http://openaccess.thecvf.com/CVPR2017_workshops/CVPR2017_W12.py)
