@@ -313,6 +313,10 @@ Note this table is referenced from [here](https://github.com/LoSealL/VideoSuperR
 | DGP  | [ECCV 2020](https://arxiv.org/pdf/2003.13659.pdf)    |[PyTorch](https://github.com/XingangPan/deep-generative-prior) | 6、oral，GAN，图像修复|
 | RSDN| [ECCV 2020](https://arxiv.org/pdf/2008.00455.pdf)    |[Code](https://github.com/junpan19/RSDN) |7、视频SR, 循环网络|
 | CDC| [ECCV 2020](https://arxiv.org/pdf/2008.01928.pdf)    |[PyTorch](https://github.com/xiezw5/Component-Divide-and-Conquer-for-Real-World-Image-Super-Resolution) | 8、真实多样数据集， 组件分治模型|
+| NAS-DIP| [ECCV 2020](https://arxiv.org/pdf/2008.11713.pdf)    | |9、神经网络搜索，图像复原|
+| SRFlow| [ECCV 2020](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123500698.pdf)    |[Code](https://github.com/andreas128/SRFlow) |10、Spotlight|
+| BSRN| [ECCV 2020](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490086.pdf)  | |11、轻量化，二值化神经网络|
+| VarSR| [ECCV 2020](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123680426.pdf)  | |12、变分超分辨率网络，超低分辨率图像|
 
 
 
