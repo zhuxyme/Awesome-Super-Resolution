@@ -311,6 +311,9 @@ Note this table is referenced from [here](https://github.com/LoSealL/VideoSuperR
 | PISR  | [ECCV 2020](https://arxiv.org/pdf/2007.07524.pdf)    | [PyTorch](https://github.com/cvlab-yonsei/PISR)  |4、蒸馏网络，轻量化|
 | MuCAN  | [ECCV 2020](https://arxiv.org/pdf/2007.11803.pdf)    | |5、 视频SR |
 | DGP  | [ECCV 2020](https://arxiv.org/pdf/2003.13659.pdf)    |[PyTorch](https://github.com/XingangPan/deep-generative-prior) | 6、oral，GAN，图像修复|
+| RSDN| [ECCV 2020](https://arxiv.org/pdf/2008.00455.pdf)    |[Code](https://github.com/junpan19/RSDN) |7、视频SR, 循环网络|
+| CDC| [ECCV 2020](https://arxiv.org/pdf/2008.01928.pdf)    |[PyTorch](https://github.com/xiezw5/Component-Divide-and-Conquer-for-Real-World-Image-Super-Resolution) | 8、真实多样数据集， 组件分治模型|
+
 
 
 ### Super Resolution workshop papers
