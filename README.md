@@ -1,5 +1,9 @@
 Acknowledgements ：   https://github.com/ChaofWang/Awesome-Super-Resolution
 
+https://github.com/Kobaayyy/Awesome-CVPR2020-Low-Level-Vision
+https://github.com/Kobaayyy/Awesome-ECCV2020-Low-Level-Vision
+
+
 大佬们的github主页：https://github.com/cszn
 # Quick navigation
 
