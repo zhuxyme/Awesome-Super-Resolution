@@ -278,4 +278,84 @@ Note this table is referenced from [here](https://github.com/LoSealL/VideoSuperR
 |AIR        |[CVPR 2020](https://openaccess.thecvf.com/content_CVPR_2020/papers/Song_Channel_Attention_Based_Iterative_Residual_Learning_for_Depth_Map_Super-Resolution_CVPR_2020_paper.pdf)   | | 16、深度图超分辨率     |
 |LFSR        |[CVPR 2020](https://arxiv.org/pdf/2004.12811.pdf)   |[PyTorch](https://github.com/jingjin25/LFSSR-ATO)  | 17、光场图像SR        |
 |UAL        |[CVPR 2020](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_Unsupervised_Adaptation_Learning_for_Hyperspectral_Imagery_Super-Resolution_CVPR_2020_paper.pdf)   |  [PyTorch](https://github.com/JiangtaoNie/UAL)| 18、高光谱图像SR     |
-| MZSR        | [CVPR 2020](https://arxiv.org/pdf/2002.12213.pdf)            |      [PyTorch](https://github.com/JWSoh/MZSR)                                                   
+| MZSR        | [CVPR 2020](https://arxiv.org/pdf/2002.12213.pdf)            |      [PyTorch](https://github.com/JWSoh/MZSR)                                                   | 19、元学习，零样本 Meta-Transfer Learning, Zero-Shot                     |
+| CutBlur        | [CVPR 2020](https://arxiv.org/pdf/2004.00448.pdf)            | [PyTorch](https://github.com/clovaai/cutblur/blob/master/main.py)             | 20、数据增强SR Data Augmentation                  |
+| SSSR     | [CVPR 2020](http://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Dual_Super-Resolution_Learning_for_Semantic_Segmentation_CVPR_2020_paper.pdf)    | [code](https://github.com/wanglixilinx/DSRL)   |21、超分辨率用于语义分割 SISR for Semantic Segmentation and Human pose estimation |
+| STARnet     | [CVPR 2020](http://openaccess.thecvf.com/content_CVPR_2020/papers/Haris_Space-Time-Aware_Multi-Resolution_Video_Enhancement_CVPR_2020_paper.pdf)            |    |22、视频SR  Space-Time-Aware multi-Resolution |
+| `SPSR`       | [CVPR 2020](https://arxiv.org/pdf/2003.13081.pdf)            | [Code](https://github.com/Maclory/SPSR)                                                             |  23、梯度引导。Gradient Guidance, GAN                  |
+| FISR                   | [AAAI 2020](https://arxiv.org/pdf/1912.07213.pdf)            | [TensorFlow](https://github.com/JihyongOh/FISR)              | **Video joint VFI-SR method**,Multi-scale Temporal Loss      |
+| ADCSR                  | [arxiv](https://arxiv.org/pdf/1912.08002.pdf)                |                                                              |                                                              |
+| SCN                    | [AAAI 2020](https://arxiv.org/pdf/1912.09028.pdf)            |                                                              | Scale-wise Convolution                                       |
+| LSRGAN                    | [arxiv](https://arxiv.org/pdf/2001.08126.pdf)            |                                                              | Latent Space Regularization for srgan                                       |
+| VESR-Net        | [arxiv](https://arxiv.org/pdf/2003.02115.pdf)            |                                                              | Youku Video Enhancement and Super-Resolution Challenge Champion                    |
+| blindvsr        | [arxiv](https://arxiv.org/pdf/2003.04716.pdf)            |   [PyTorch](https://github.com/jspan/blindvsr)                                                           | Motion blur estimation                    |
+| HNAS-SR        | [arxiv](https://arxiv.org/pdf/2003.04619.pdf)            |   [PyTorch](https://github.com/guoyongcs/HNAS-SR)                                                           | Hierarchical Neural Architecture Search, Lightweight   |
+| SFM        | [arxiv](https://arxiv.org/pdf/2003.07119.pdf)            |   [PyTorch](https://github.com/sfm-sr-denoising/sfm)                                                           | Stochastic Frequency Masking, Improve method                     |
+| PULSE        | [CVPR 2020](https://arxiv.org/pdf/2003.03808.pdf)            |                                                             | Self-Supervised                     |
+| DASR        | [arxiv](https://arxiv.org/pdf/2004.01178.pdf)            | [Code](https://github.com/ShuhangGu/DASR)                                                             | Real-World Image Super-Resolution, Unsupervised SuperResolution, Domain Adaptation.                  |
+| STVUN        | [arxiv](https://arxiv.org/pdf/2004.02432.pdf)            | [PyTorch](https://github.com/JaeYeonKang/STVUN-Pytorch)                                                             | Video Super-Resolution, Video Frame Interpolation, Joint space-time upsampling                  |
+| AdaDSR        | [arxiv](https://arxiv.org/pdf/2004.03915.pdf)            | [PyTorch](https://github.com/csmliu/AdaDSR)                                                             | Adaptive Inference                  |
+| Scale-Arbitrary SR        | [arxiv](https://arxiv.org/pdf/2004.03791.pdf)            | [Code](https://github.com/LongguangWang/Scale-Arbitrary-SR)                                                             | Scale-Arbitrary Super-Resolution, Knowledge Transfer                  |
+| DeepSEE        | [arxiv](https://arxiv.org/pdf/2004.04433.pdf)            | [Code](https://mcbuehler.github.io/DeepSEE/)                                                             | Extreme super-resolution,32× magnification                  |
+| DIN        | [IJCAI-PRICAI 2020](https://arxiv.org/pdf/2004.11814.pdf)            |   | SISR，asymmetric co-attention           |
+| PANet        | [arxiv](https://arxiv.org/pdf/2004.13824.pdf)   |[PyTorch](https://github.com/SHI-Labs/Pyramid-Attention-Networks)   | Pyramid Attention        |
+| SRResCGAN        | [arxiv](https://arxiv.org/pdf/2005.00953.pdf)   |[PyTorch](https://github.com/RaoUmer/SRResCGAN)   |         |
+|dSRVAE        |[CVPR 2020 ?](https://arxiv.org/pdf/2004.02215.pdf)   |[PyTorch](https://github.com/Holmes-Alan/dSRVAE)   | 无监督        |
+| ISRN        | [arxiv](https://arxiv.org/pdf/2005.09964.pdf)   |   | iterative optimization, feature normalization.     |
+| RFB-ESRGAN        | [CVPR 2020](https://arxiv.org/pdf/2005.12597.pdf)   |   | NTIRE 2020 Perceptual Extreme Super-Resolution Challenge winner    |
+| PHYSICS_SR                   | [AAAI 2020](https://arxiv.org/pdf/1908.06444.pdf)            | [PyTorch](https://github.com/jspan/PHYSICS_SR)              |    |
+|老旧图像修复        |[CVPR 2020](https://arxiv.org/pdf/2004.09484.pdf)   |[Project](http://raywzy.com/Old_Photo/) 暂未公布代码  |         |
+| NSR               | [arxiv](https://arxiv.org/pdf/2006.04357.pdf)            | [PyTorch](https://github.com/ychfan/nsr)         | Neural Sparse Representation |
+| SMSR     | [arxiv](https://arxiv.org/pdf/2006.09603.pdf)    |   | Sparse Masks, Efficient SISR
+| LF-InterNet  | [ECCV 2020](https://arxiv.org/pdf/1912.07849.pdf)    | [PyTorch](https://github.com/YingqianWang/LF-InterNet)  | Spatial-Angular Interaction, Light Field Image SR |
+| Invertible-Image-Rescaling  | [ECCV 2020](https://arxiv.org/abs/2005.05650)    | [Code](https://github.com/pkuxmq/Invertible-Image-Rescaling)  | ECCV oral |
+| IGNN  | [arxiv](https://arxiv.org/abs/2006.16673)    | [Code](https://github.com/sczhou/IGNN)  | GNN, SISR |
+| MIRNet  | [ECCV 2020](https://arxiv.org/pdf/2003.06792.pdf)    | [PyTorch](https://github.com/swz30/MIRNet)  | 1、去噪+超分+增强|
+| SFM  | [ECCV 2020](https://arxiv.org/pdf/2003.07119.pdf)    | [PyTorch](https://github.com/majedelhelou/SFM)  |2、随机频率掩码，去噪+超分|
+| LatticeNet| [ECCV 2020](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670273.pdf)  | |3、轻量化|
+| PISR  | [ECCV 2020](https://arxiv.org/pdf/2007.07524.pdf)    | [PyTorch](https://github.com/cvlab-yonsei/PISR)  |4、蒸馏网络，轻量化|
+| MuCAN  | [ECCV 2020](https://arxiv.org/pdf/2007.11803.pdf)    | |5、 视频SR |
+| DGP  | [ECCV 2020](https://arxiv.org/pdf/2003.13659.pdf)    |[PyTorch](https://github.com/XingangPan/deep-generative-prior) | 6、oral，GAN，图像修复|
+| RSDN| [ECCV 2020](https://arxiv.org/pdf/2008.00455.pdf)    |[Code](https://github.com/junpan19/RSDN) |7、视频SR, 循环网络|
+| CDC| [ECCV 2020](https://arxiv.org/pdf/2008.01928.pdf)    |[PyTorch](https://github.com/xiezw5/Component-Divide-and-Conquer-for-Real-World-Image-Super-Resolution) | 8、真实多样数据集， 组件分治模型|
+| NAS-DIP| [ECCV 2020](https://arxiv.org/pdf/2008.11713.pdf)    | |9、神经网络搜索，图像复原|
+| SRFlow| [ECCV 2020](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123500698.pdf)    |[Code](https://github.com/andreas128/SRFlow) |10、Spotlight|
+| BSRN| [ECCV 2020](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490086.pdf)  | |11、轻量化，二值化神经网络|
+| VarSR| [ECCV 2020](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123680426.pdf)  | |12、变分超分辨率网络，超低分辨率图像|
+| HAN| [ECCV 2020](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123570188.pdf)  | |13、整体注意力网络，刷指标 |
+| DeepTemporalSR| [ECCV 2020](http://www.wisdom.weizmann.ac.il/~vision/DeepTemporalSR/supplementary/AcrossScalesAndDimensions_ECCV2020.pdf)  |[PyTorch](https://github.com/eyalnaor/DeepTemporalSR) |14、视频时序SR|
+| DGDML-SR| [ECCV 2020](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123620256.pdf)  | |15、零样本SR|
+|MLSR| [ECCV 2020](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123720749.pdf)  |[PyTorch](https://github.com/parkseobin/MLSR)  |16、元学习SR|
+|PlugNet| [ECCV 2020](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123600154.pdf)  | |17、借助SR场景文本识别|
+|TextZoom| [ECCV 2020](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123550647.pdf)  |[code](https://github.com/JasonBoy1/TextZoom) |18、同上 |
+|TPSR| [ECCV 2020](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123710086.pdf)  |  |19、NAS、感知、轻量化|
+|CUCaNet| [ECCV 2020](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123740205.pdf)  | [PyTorch](https://github.com/danfenghong/ECCV2020_CUCaNet) |20、无监督,高光谱图像SR|
+|MAFFSRN| [ECCVW 2020??？](https://arxiv.org/pdf/2008.12912.pdf)  |  |21、多注意力特征融合，超轻量化 |
+| LF-InterNet  | [ECCV 2020](https://arxiv.org/pdf/1912.07849.pdf)    | [PyTorch](https://github.com/YingqianWang/LF-InterNet)  |22、光场图像SR|
+|IRN| [ECCV 2020](https://arxiv.org/abs/2005.05650)    | [Code](https://github.com/pkuxmq/Invertible-Image-Rescaling)  |23、图像放缩，可逆双射变换|          
+
+### Super Resolution workshop papers
+#### NTIRE17 [papers](http://openaccess.thecvf.com/CVPR2017_workshops/CVPR2017_W12.py)
+
+#### NTIRE18 [papers](http://openaccess.thecvf.com/CVPR2018_workshops/CVPR2018_W13.py)
+
+#### PIRM18 [Web](https://pirm2018.org/)
+
+#### NTIRE19 [papers](http://openaccess.thecvf.com/CVPR2019_workshops/CVPR2019_NTIRE.py)
+
+#### AIM19 [papers](http://openaccess.thecvf.com/ICCV2019_workshops/ICCV2019_AIM.py)
+
+#### NTIRE20 [NTIRE 2020](http://www.vision.ee.ethz.ch/ntire20/)
+---[Image and Video Deblurring](https://arxiv.org/pdf/2005.01244.pdf)
+
+---[Perceptual Extreme Super-Resolution](https://arxiv.org/pdf/2005.01056.pdf)
+
+---[Real-World Image Super-Resolution](https://arxiv.org/pdf/2005.01996.pdf)
+
+###  Super Resolution survey
+
+[1] Wenming Yang, Xuechen Zhang, Yapeng Tian, Wei Wang, Jing-Hao Xue. Deep Learning for Single Image Super-Resolution: A Brief Review. arxiv, 2018. [paper](https://arxiv.org/pdf/1808.03344.pdf)
+
+[2]Saeed Anwar, Salman Khan, Nick Barnes. A Deep Journey into Super-resolution: A survey. arxiv, 2019.[paper](https://arxiv.org/pdf/1904.07523.pdf)
+
+[3]Wang, Z., Chen, J., & Hoi, S. C. (2019). Deep learning for image super-resolution: A survey. arXiv preprint arXiv:1902.06068.[paper](https://arxiv.org/abs/1902.06068)
