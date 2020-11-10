@@ -332,7 +332,8 @@ Note this table is referenced from [here](https://github.com/LoSealL/VideoSuperR
 |CUCaNet| [ECCV 2020](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123740205.pdf)  | [PyTorch](https://github.com/danfenghong/ECCV2020_CUCaNet) |20、无监督,高光谱图像SR|
 |MAFFSRN| [ECCVW 2020??？](https://arxiv.org/pdf/2008.12912.pdf)  |  |21、多注意力特征融合，超轻量化 |
 | LF-InterNet  | [ECCV 2020](https://arxiv.org/pdf/1912.07849.pdf)    | [PyTorch](https://github.com/YingqianWang/LF-InterNet)  |22、光场图像SR|
-|IRN| [ECCV 2020](https://arxiv.org/abs/2005.05650)    | [Code](https://github.com/pkuxmq/Invertible-Image-Rescaling)  |23、图像放缩，可逆双射变换|          
+|IRN| [ECCV 2020](https://arxiv.org/abs/2005.05650)    | [Code](https://github.com/pkuxmq/Invertible-Image-Rescaling)  |23、图像放缩，可逆双射变换|    
+|DAN| [NeurIPS 2020](https://arxiv.org/pdf/2010.02631.pdf)  |[PyTorch](https://github.com/greatlog/DAN)  | Unfolding the Alternating Optimization  |
 
 ### Super Resolution workshop papers
 #### NTIRE17 [papers](http://openaccess.thecvf.com/CVPR2017_workshops/CVPR2017_W12.py)
