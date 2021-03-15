@@ -138,7 +138,7 @@ Note this table is referenced from [here](https://github.com/LoSealL/VideoSuperR
 #### 2021
 | Model                  | Published                                                    | Code                                                         | Keywords                                                     |
 | ---------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| DRN        | [CVPR 2020](https://arxiv.org/pdf/2003.07018.pdf)            | [PyTorch](https://github.com/guoyongcs/DRN)                                                             | 1、对偶回归，面向真实LR图像Dual Regression, SISR STOA                     |
+| GLEAN        | [CVPR 2020](https://arxiv.org/pdf/2012.00739.pdf)            | Coming                                                        | 1、GAN，大尺度               |
 
 
 #### 2020
