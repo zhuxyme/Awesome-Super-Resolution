@@ -138,7 +138,9 @@ Note this table is referenced from [here](https://github.com/LoSealL/VideoSuperR
 #### 2021
 | Model                  | Published                                                    | Code                                                         | Keywords                                                     |
 | ---------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| GLEAN        | [CVPR 2020](https://arxiv.org/pdf/2012.00739.pdf)            | Coming                                                        | 1、GAN，大尺度               |
+| GLEAN        | [CVPR 2021](https://arxiv.org/pdf/2012.00739.pdf)            | Coming                                                        | 1、GAN，大尺度               |
+| BasicVSR        | [CVPR 2021](https://arxiv.org/pdf/2012.02181.pdf)            |  [Coming](https://github.com/ckkelvinchan/BasicVSR-IconVSR)                                                          | 2、视频SR              |
+| 	Robust Reference-based Super-Resolution via C²-Matching        | CVPR2021           |                                                      | 3              |
 
 
 #### 2020
