@@ -141,6 +141,8 @@ Note this table is referenced from [here](https://github.com/LoSealL/VideoSuperR
 | GLEAN        | [CVPR 2021](https://arxiv.org/pdf/2012.00739.pdf)            | Coming                                                        | 1、GAN，大尺度               |
 | BasicVSR        | [CVPR 2021](https://arxiv.org/pdf/2012.02181.pdf)            |  [Coming](https://github.com/ckkelvinchan/BasicVSR-IconVSR)                                                          | 2、视频SR              |
 | 	Robust Reference-based Super-Resolution via C²-Matching        | CVPR2021           |                                                      | 3              |
+| ClassSR: A General Framework to Accelerate Super-Resolution Networks by
+Data Characteristic        | [CVPR 2021](https://arxiv.org/pdf/2103.04039.pdf)            |  [PyTorch](https://github.com/Xiangtaokong/ClassSR)                                                            | 4、大尺度,快速               |
 
 
 #### 2020
