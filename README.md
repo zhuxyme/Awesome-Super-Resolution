@@ -335,6 +335,11 @@ Note this table is referenced from [here](https://github.com/LoSealL/VideoSuperR
 |IRN| [ECCV 2020](https://arxiv.org/abs/2005.05650)    | [Code](https://github.com/pkuxmq/Invertible-Image-Rescaling)  |23、图像放缩，可逆双射变换|    
 |DAN| [NeurIPS 2020](https://arxiv.org/pdf/2010.02631.pdf)  |[PyTorch](https://github.com/greatlog/DAN)  | Unfolding the Alternating Optimization  |
 
+#### 2020
+| Model                  | Published                                                    | Code                                                         | Keywords                                                     |
+| ---------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| DRN        | [CVPR 2020](https://arxiv.org/pdf/2003.07018.pdf)            | [PyTorch](https://github.com/guoyongcs/DRN)                                                             | 1、对偶回归，面向真实LR图像Dual Regression, SISR STOA                     |
+
 ### Super Resolution workshop papers
 #### NTIRE17 [papers](http://openaccess.thecvf.com/CVPR2017_workshops/CVPR2017_W12.py)
 
