@@ -143,6 +143,8 @@ Note this table is referenced from [here](https://github.com/LoSealL/VideoSuperR
 | 	Robust Reference-based Super-Resolution via C²-Matching        | CVPR2021           |                                                      | 3              |
 | ClassSR: A General Framework to Accelerate Super-Resolution Networks by Data Characteristic        | [CVPR 2021](https://arxiv.org/pdf/2103.04039.pdf)            |  [PyTorch](https://github.com/Xiangtaokong/ClassSR)                                                            | 4、大尺度,快速               |
 | Cross-MPI: Cross-scale Stereo for Image Super-Resolution using Multiplane Images       | [CVPR 2021](https://arxiv.org/abs/2011.14631)            |  [Coming](http://www.liuyebin.com/crossMPI/crossMPI.html)                                                            | 5、参考图像，大尺度               |
+| TemporalModulation Network for Controllable Space-Time Video Super-Resolution      |CVPR2021          |                                   | 6、视频SR            |
+
 
 
 #### 2020
